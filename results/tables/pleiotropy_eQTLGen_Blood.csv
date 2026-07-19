@@ -1,0 +1,2 @@
+id.exposure,id.outcome,outcome,exposure,egger_intercept,se,pval
+eqtlgen_olr1_blood,finngen_r12_aaa,Abdominal Aortic Aneurysm (FinnGen R12),"OLR1 eQTL (Whole Blood, eQTLGen)",0.0262562314627882,0.0365855658539339,0.480514822092334

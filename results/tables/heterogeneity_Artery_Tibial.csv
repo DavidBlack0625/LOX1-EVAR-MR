@@ -1,0 +1,3 @@
+id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+olr1_tibial,finngen_r12_aaa,Abdominal Aortic Aneurysm (FinnGen R12),OLR1 eQTL (Artery_Tibial),MR Egger,1.35351860527118,5,0.929329511055558
+olr1_tibial,finngen_r12_aaa,Abdominal Aortic Aneurysm (FinnGen R12),OLR1 eQTL (Artery_Tibial),Inverse variance weighted,1.48825490585129,6,0.960270924767907

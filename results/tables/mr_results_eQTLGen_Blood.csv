@@ -1,0 +1,6 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+eqtlgen_olr1_blood,finngen_r12_aaa,Abdominal Aortic Aneurysm (FinnGen R12),"OLR1 eQTL (Whole Blood, eQTLGen)",Inverse variance weighted,24,0.00229423496737029,0.00100021206286067,0.0218049463539874
+eqtlgen_olr1_blood,finngen_r12_aaa,Abdominal Aortic Aneurysm (FinnGen R12),"OLR1 eQTL (Whole Blood, eQTLGen)",MR Egger,24,-0.00282831975013208,0.00720753236331278,0.698530081052762
+eqtlgen_olr1_blood,finngen_r12_aaa,Abdominal Aortic Aneurysm (FinnGen R12),"OLR1 eQTL (Whole Blood, eQTLGen)",Weighted median,24,0.00163984827523355,0.00122720268284092,0.181467921973263
+eqtlgen_olr1_blood,finngen_r12_aaa,Abdominal Aortic Aneurysm (FinnGen R12),"OLR1 eQTL (Whole Blood, eQTLGen)",Simple mode,24,0.00164907440704152,0.0019330071065139,0.40239371884306
+eqtlgen_olr1_blood,finngen_r12_aaa,Abdominal Aortic Aneurysm (FinnGen R12),"OLR1 eQTL (Whole Blood, eQTLGen)",Weighted mode,24,0.00153314571409663,0.00202017926593755,0.455610724908151

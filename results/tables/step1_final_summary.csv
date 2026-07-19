@@ -1,0 +1,10 @@
+Step,Path,Method,Result,p_value,Conclusion
+Step 1,OLR1 → IL6R (mRNA),eQTLGen trans-eQTL,0/31 SNPs match,N/A,NULL
+Step 1,OLR1 → CRP (mRNA),eQTLGen trans-eQTL,0/31 SNPs match,N/A,NULL
+Step 1,"OLR1 → CRP (protein, top)",GWAS Catalog API,0/31 SNPs match,N/A,NULL
+Step 1,"OLR1 → CRP (protein, full)",EBI FTP (incomplete),Download incomplete,N/A,INCONCLUSIVE (low impact)
+Step 1,"OLR1 → IL6R (protein, full)",Not available,No public data source,N/A,INCONCLUSIVE (low impact)
+Step 1,OLR1 → CRP/IL6R (overall),Multi-layer evidence,Consistent NULL,N/A,NULL (parallel pathways)
+Step 2,CRP → AAA,IVW MR (4 SNPs),OR=0.968,0.580,NS
+Step 2,IL6R → AAA,IVW MR (4 SNPs),OR=0.722,2.96e-26,SIGNIFICANT
+Total,OLR1 → AAA,IVW MR (24 SNPs),OR=1.0023,0.022,SIGNIFICANT

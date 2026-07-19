@@ -1,0 +1,2 @@
+exposure,outcome,id.exposure,id.outcome,samplesize,SNP,b,se,p
+OLR1 eQTL (Artery_Coronary),Abdominal Aortic Aneurysm (FinnGen R12),olr1_coronary,finngen_r12_aaa,,All,,,

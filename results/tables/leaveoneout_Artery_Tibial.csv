@@ -1,0 +1,9 @@
+exposure,outcome,id.exposure,id.outcome,samplesize,SNP,b,se,p
+OLR1 eQTL (Artery_Tibial),Abdominal Aortic Aneurysm (FinnGen R12),olr1_tibial,finngen_r12_aaa,467545,rs10845055,0.0453964462700305,0.0487731500064561,0.351974021075357
+OLR1 eQTL (Artery_Tibial),Abdominal Aortic Aneurysm (FinnGen R12),olr1_tibial,finngen_r12_aaa,467545,rs10845073,0.0491101595449803,0.0475730653352966,0.301926834591304
+OLR1 eQTL (Artery_Tibial),Abdominal Aortic Aneurysm (FinnGen R12),olr1_tibial,finngen_r12_aaa,467545,rs11053674,0.0498528588705374,0.048608900246244,0.30508433137461
+OLR1 eQTL (Artery_Tibial),Abdominal Aortic Aneurysm (FinnGen R12),olr1_tibial,finngen_r12_aaa,467545,rs113181367,0.0582318450342941,0.0485977569290364,0.230823046571115
+OLR1 eQTL (Artery_Tibial),Abdominal Aortic Aneurysm (FinnGen R12),olr1_tibial,finngen_r12_aaa,467545,rs11325113,0.0597538863187381,0.04834596421927,0.216471830228714
+OLR1 eQTL (Artery_Tibial),Abdominal Aortic Aneurysm (FinnGen R12),olr1_tibial,finngen_r12_aaa,467545,rs12304486,0.0768757497460697,0.0496502006690804,0.12153872343599
+OLR1 eQTL (Artery_Tibial),Abdominal Aortic Aneurysm (FinnGen R12),olr1_tibial,finngen_r12_aaa,467545,rs3741860,0.0499227753633016,0.0491405311758029,0.309668192156614
+OLR1 eQTL (Artery_Tibial),Abdominal Aortic Aneurysm (FinnGen R12),olr1_tibial,finngen_r12_aaa,467545,All,0.0554586045680645,0.0450493378497975,0.218299040491582

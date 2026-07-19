@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 565" font-family="Arial, sans-serif">
+<rect width="900" height="565" fill="#FAFAFA" rx="8"/>
+<text x="450.0" y="30" text-anchor="middle" font-size="18" font-weight="bold" fill="#333">Mediation MR: Forest Plot</text>
+<text x="450.0" y="50" text-anchor="middle" font-size="12" fill="#666">OLR1 -> Mediator -> AAA (FinnGen R12, I9_ABAORTANEUR)</text>
+<line x1="306.25" y1="505" x2="306.25" y2="510" stroke="#666" stroke-width="1"/>
+<text x="306.25" y="523" text-anchor="middle" font-size="10" fill="#666">0.67</text>
+<line x1="362.5" y1="505" x2="362.5" y2="510" stroke="#666" stroke-width="1"/>
+<text x="362.5" y="523" text-anchor="middle" font-size="10" fill="#666">0.74</text>
+<line x1="418.75" y1="505" x2="418.75" y2="510" stroke="#666" stroke-width="1"/>
+<text x="418.75" y="523" text-anchor="middle" font-size="10" fill="#666">0.82</text>
+<line x1="475.0" y1="505" x2="475.0" y2="510" stroke="#666" stroke-width="1"/>
+<text x="475.0" y="523" text-anchor="middle" font-size="10" fill="#666">0.90</text>
+<line x1="531.25" y1="505" x2="531.25" y2="510" stroke="#666" stroke-width="1"/>
+<text x="531.25" y="523" text-anchor="middle" font-size="10" fill="#666">1.00</text>
+<line x1="587.5" y1="505" x2="587.5" y2="510" stroke="#666" stroke-width="1"/>
+<text x="587.5" y="523" text-anchor="middle" font-size="10" fill="#666">1.11</text>
+<line x1="643.75" y1="505" x2="643.75" y2="510" stroke="#666" stroke-width="1"/>
+<text x="643.75" y="523" text-anchor="middle" font-size="10" fill="#666">1.22</text>
+<line x1="700.0" y1="505" x2="700.0" y2="510" stroke="#666" stroke-width="1"/>
+<text x="700.0" y="523" text-anchor="middle" font-size="10" fill="#666">1.35</text>
+<line x1="250" y1="505" x2="700" y2="505" stroke="#333" stroke-width="1.5"/>
+<line x1="531.25" y1="65" x2="531.25" y2="505" stroke="#999" stroke-width="1" stroke-dasharray="4,3"/>
+<text x="531.25" y="62" text-anchor="middle" font-size="9" fill="#999">OR=1.0</text>
+<text x="475.0" y="545" text-anchor="middle" font-size="12" fill="#333">Odds Ratio (95% CI)</text>
+<text x="10" y="80" font-size="11" font-weight="bold" fill="#333">Analysis</text>
+<text x="710" y="80" font-size="11" font-weight="bold" fill="#333">OR (95% CI)</text>
+<text x="815" y="80" font-size="11" font-weight="bold" fill="#333">p-value</text>
+<rect x="5" y="95" width="890" height="22" fill="#E8EAF6" rx="3"/>
+<text x="15" y="110" font-size="11" font-weight="bold" fill="#333">Total Effect</text>
+<text x="15" y="132" font-size="10" fill="#333">IVW (eQTLGen, 24 SNPs)</text>
+<line x1="531.4187246925612" y1="128" x2="533.6635645471504" y2="128" stroke="#2196F3" stroke-width="2"/>
+<line x1="531.4187246925612" y1="124" x2="531.4187246925612" y2="132" stroke="#2196F3" stroke-width="1.5"/>
+<line x1="533.6635645471504" y1="124" x2="533.6635645471504" y2="132" stroke="#2196F3" stroke-width="1.5"/>
+<rect x="528.5422644648844" y="124.0" width="8" height="8" fill="#2196F3" rx="1"/>
+<text x="710" y="132" font-size="10" fill="#333">1.002 (1.000-1.004)</text>
+<text x="815" y="132" font-size="10" fill="#2196F3" font-weight="bold">0.022 *</text>
+<rect x="5" y="153" width="890" height="22" fill="#E8EAF6" rx="3"/>
+<text x="15" y="168" font-size="11" font-weight="bold" fill="#333">CRP (Step 2)</text>
+<text x="15" y="190" font-size="10" fill="#333">Inverse variance weighted (4 SNPs)</text>
+<line x1="449.08375529600255" y1="186" x2="577.2438402914779" y2="186" stroke="#9E9E9E" stroke-width="2"/>
+<line x1="449.08375529600255" y1="182" x2="449.08375529600255" y2="190" stroke="#9E9E9E" stroke-width="1.5"/>
+<line x1="577.2438402914779" y1="182" x2="577.2438402914779" y2="190" stroke="#9E9E9E" stroke-width="1.5"/>
+<rect x="510.1637977937402" y="183.0" width="6" height="6" fill="#9E9E9E" rx="1"/>
+<text x="710" y="190" font-size="10" fill="#333">0.968 (0.864-1.085)</text>
+<text x="815" y="190" font-size="10" fill="#9E9E9E" font-weight="normal">0.580 </text>
+<text x="15" y="220" font-size="10" fill="#333">MR Egger (4 SNPs)</text>
+<line x1="250.0" y1="216" x2="700.0" y2="216" stroke="#9E9E9E" stroke-width="2"/>
+<line x1="250.0" y1="212" x2="250.0" y2="220" stroke="#9E9E9E" stroke-width="1.5"/>
+<line x1="700.0" y1="212" x2="700.0" y2="220" stroke="#9E9E9E" stroke-width="1.5"/>
+<rect x="535.6687713229112" y="213.0" width="6" height="6" fill="#9E9E9E" rx="1"/>
+<text x="710" y="220" font-size="10" fill="#333">1.013 (0.042-24.357)</text>
+<text x="815" y="220" font-size="10" fill="#9E9E9E" font-weight="normal">0.994 </text>
+<text x="15" y="250" font-size="10" fill="#333">Weighted median (4 SNPs)</text>
+<line x1="425.1457795016395" y1="246" x2="552.5845961460288" y2="246" stroke="#9E9E9E" stroke-width="2"/>
+<line x1="425.1457795016395" y1="242" x2="425.1457795016395" y2="250" stroke="#9E9E9E" stroke-width="1.5"/>
+<line x1="552.5845961460288" y1="242" x2="552.5845961460288" y2="250" stroke="#9E9E9E" stroke-width="1.5"/>
+<rect x="485.86518782383416" y="243.0" width="6" height="6" fill="#9E9E9E" rx="1"/>
+<text x="710" y="250" font-size="10" fill="#333">0.927 (0.828-1.039)</text>
+<text x="815" y="250" font-size="10" fill="#9E9E9E" font-weight="normal">0.192 </text>
+<rect x="5" y="271" width="890" height="22" fill="#E8EAF6" rx="3"/>
+<text x="15" y="286" font-size="11" font-weight="bold" fill="#333">IL6R (Step 2)</text>
+<text x="15" y="308" font-size="10" fill="#333">Inverse variance weighted (4 SNPs)</text>
+<line x1="313.89889120606324" y1="304" x2="381.7305641677756" y2="304" stroke="#F44336" stroke-width="2"/>
+<line x1="313.89889120606324" y1="300" x2="313.89889120606324" y2="308" stroke="#F44336" stroke-width="1.5"/>
+<line x1="381.7305641677756" y1="300" x2="381.7305641677756" y2="308" stroke="#F44336" stroke-width="1.5"/>
+<rect x="343.8147276869194" y="300.0" width="8" height="8" fill="#F44336" rx="1"/>
+<text x="710" y="308" font-size="10" fill="#333">0.722 (0.679-0.767)</text>
+<text x="815" y="308" font-size="10" fill="#F44336" font-weight="bold">2.96e-26 ***</text>
+<text x="15" y="338" font-size="10" fill="#333">MR Egger (4 SNPs)</text>
+<line x1="316.22351829770423" y1="334" x2="383.6182585545849" y2="334" stroke="#F44336" stroke-width="2"/>
+<line x1="316.22351829770423" y1="330" x2="316.22351829770423" y2="338" stroke="#F44336" stroke-width="1.5"/>
+<line x1="383.6182585545849" y1="330" x2="383.6182585545849" y2="338" stroke="#F44336" stroke-width="1.5"/>
+<rect x="345.92088842614453" y="330.0" width="8" height="8" fill="#F44336" rx="1"/>
+<text x="710" y="338" font-size="10" fill="#333">0.724 (0.682-0.769)</text>
+<text x="815" y="338" font-size="10" fill="#F44336" font-weight="bold">5.25e-26 ***</text>
+<text x="15" y="368" font-size="10" fill="#333">Weighted median (4 SNPs)</text>
+<line x1="312.0228014577844" y1="364" x2="370.83791282792987" y2="364" stroke="#F44336" stroke-width="2"/>
+<line x1="312.0228014577844" y1="360" x2="312.0228014577844" y2="368" stroke="#F44336" stroke-width="1.5"/>
+<line x1="370.83791282792987" y1="360" x2="370.83791282792987" y2="368" stroke="#F44336" stroke-width="1.5"/>
+<rect x="337.43035714285713" y="360.0" width="8" height="8" fill="#F44336" rx="1"/>
+<text x="710" y="368" font-size="10" fill="#333">0.714 (0.677-0.752)</text>
+<text x="815" y="368" font-size="10" fill="#F44336" font-weight="bold">1.10e-36 ***</text>
+</svg>

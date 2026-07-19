@@ -1,0 +1,27 @@
+exposure,outcome,id.exposure,id.outcome,samplesize,SNP,b,se,p
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs10845055,0.00503461139438889,0.00519561618435865,0.332539493459461
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs11053632,0.00238558034632519,0.028467632201905,0.933215650013136
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs11053634,0.00445908612724695,0.00537572611261035,0.406829815735237
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs12231578,-0.000147049307504506,0.0049979921053232,0.976528284838886
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs185502955,0.0024789077140781,0.0294006960645581,0.93280631041071
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs2010655,0.0016184675337019,0.00357339965466441,0.650605671271662
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs2537749,0.00177119824840764,0.00562166047416844,0.752710979750134
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs2537750,0.00177221951759239,0.00562489488824961,0.752710681055297
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs2634159,0.00346293303044865,0.00511613734655542,0.498491770624506
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs2634165,0.00182775729578466,0.00564556034291298,0.746126356349909
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs2742107,0.00164564558975313,0.0038731155141199,0.670917328055901
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs2742108,0.00163247150590055,0.00384803146958948,0.671394082515811
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs2742110,0.00130408536689639,0.00391774543837748,0.739235220737503
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs2742112,0.00126050039661555,0.00378579455314648,0.739168018148327
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs2742113,0.0012675534698425,0.0038668107159135,0.743060361394484
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs2742114,0.00128347705098255,0.00393491480005497,0.74429075993025
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs2742115,0.00381554592070705,0.00487161795972819,0.43349825733563
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs2896042,0.00205510359536868,0.00553762949421085,0.710551041843751
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs2931825,0.00180809744419569,0.00563473943209275,0.748298337604697
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs3741860,0.00366854789824627,0.0048894253882653,0.453072561183119
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs4482119,-0.000153138912696023,0.00507423965161798,0.97592375671149
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs7299320,0.00733489894043273,0.0060256878283323,0.223500878579261
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs7313061,0.00488692960021537,0.00537777628213757,0.363494337443797
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,rs7315597,0.00647772075504945,0.00635660007488822,0.308177179827515
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,All - Inverse variance weighted,0.00229423496737029,0.00100021206286067,0.0218049463539874
+"OLR1 eQTL (Whole Blood, eQTLGen)",Abdominal Aortic Aneurysm (FinnGen R12),eqtlgen_olr1_blood,finngen_r12_aaa,467545,All - MR Egger,-0.00282831975013208,0.00720753236331278,0.698530081052762

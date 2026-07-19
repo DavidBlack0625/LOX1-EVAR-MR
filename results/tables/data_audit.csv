@@ -1,0 +1,19 @@
+Component,Source,Status,Details
+Exposure: eQTLGen Blood eQTL,eQTLGen consortium,COMPLETE,31 SNPs (13 cis chr12 + 18 trans); 24 after harmonization; rsIDs available
+Exposure: GTEx Artery_Tibial,GTEx v8 API,COMPLETE,52 SNPs; GRCh38 positions; 47 after harmonization
+Exposure: GTEx Artery_Coronary,GTEx v8 API,LIMITED,9 SNPs but ALL palindromic (A/T or G/C) → 0 usable after harmonization
+Exposure: GTEx Artery_Aorta,GTEx v8 API,NULL,OLR1 has no significant cis-eQTL in Artery_Aorta (FDR>0.05)
+Outcome: FinnGen R12 AAA,Google Cloud Storage,COMPLETE,"773.8 MB; 4,439 cases / 463,106 controls; rsids column available"
+Total Effect MR (eQTLGen),Calculated,COMPLETE,"IVW OR=1.0023, p=0.022; all sensitivity analyses done"
+Total Effect MR (GTEx Tibial),Calculated,COMPLETE,IVW p=0.218 (not significant)
+Total Effect MR (GTEx Coronary),Calculated,NULL,0 SNPs after harmonization (all palindromic)
+Colocalization (3 groups),coloc.abf in R,COMPLETE,All PP.H4 < 2% (negative); sensitivity plots generated
+Step 1: OLR1→IL6R/CRP (mRNA),eQTLGen trans-eQTL,COMPLETE,0/31 SNPs match → NULL (no trans-eQTL effect)
+"Step 1: OLR1→CRP (protein, top)",GWAS Catalog API,COMPLETE,0/31 SNPs in top CRP associations → NULL
+"Step 1: OLR1→CRP (protein, full)",EBI FTP GCST90018950,INCOMPLETE,348MB file; download 0.05MB/s; chr12 stream-filter incomplete after 10+ min
+"Step 1: OLR1→IL6R (protein, full)",Not found,NOT AVAILABLE,No public IL6R pQTL GWAS summary stats found; OpenGWAS 401; SCALLOP requires application
+Step 2: CRP→AAA,FinnGen + literature pQTL,COMPLETE,"IVW OR=0.968, p=0.58; 4 SNPs; using literature effect sizes"
+Step 2: IL6R→AAA,FinnGen + literature pQTL,COMPLETE,"IVW OR=0.722, p=2.96e-26; 4 SNPs; using literature effect sizes"
+Instrument: CRP pQTL,Literature (WGHS/Frontiers),COMPLETE,8 SNPs with beta/se from published GWAS; 4 matched to FinnGen
+Instrument: IL6R pQTL,Literature (Ferreira/SCALLOP),COMPLETE,5 SNPs with estimated beta/se; 4 matched to FinnGen
+IL6R p-value precision,Recalculated with erfc,FIXED,IVW p=2.9562e-26 (was 0.0 due to float precision)

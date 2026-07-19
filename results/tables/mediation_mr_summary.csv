@@ -1,0 +1,8 @@
+Analysis,Exposure,Outcome,Method,nSNP,beta,SE,OR,95% CI,p-value,Significance
+Total Effect,OLR1 eQTL,AAA (FinnGen),IVW,24,0.002294,0.001000,1.0023,1.0003-1.0043,2.1800e-02,*
+Step 2,CRP,AAA (FinnGen),Inverse variance weighted,4,-0.032153,0.058122,0.9684,0.8641-1.0852,5.8013e-01,ns
+Step 2,CRP,AAA (FinnGen),MR Egger,4,0.013189,1.622255,1.0133,0.0422-24.3567,9.9351e-01,ns
+Step 2,CRP,AAA (FinnGen),Weighted median,4,-0.075351,0.057795,0.9274,0.8281-1.0387,1.9232e-01,ns
+Step 2,IL6R,AAA (FinnGen),Inverse variance weighted,4,-0.326107,0.030763,0.7217,0.6795-0.7666,0.0000e+00,***
+Step 2,IL6R,AAA (FinnGen),MR Egger,4,-0.322363,0.030565,0.7244,0.6823-0.7692,0.0000e+00,***
+Step 2,IL6R,AAA (FinnGen),Weighted median,4,-0.337457,0.026674,0.7136,0.6772-0.7519,0.0000e+00,***

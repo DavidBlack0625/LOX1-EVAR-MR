@@ -1,0 +1,6 @@
+id.exposure,id.outcome,outcome,exposure,method,nsnp,b,se,pval
+olr1_tibial,finngen_r12_aaa,Abdominal Aortic Aneurysm (FinnGen R12),OLR1 eQTL (Artery_Tibial),Inverse variance weighted,7,0.0554586045680645,0.0450493378497975,0.218299040491582
+olr1_tibial,finngen_r12_aaa,Abdominal Aortic Aneurysm (FinnGen R12),OLR1 eQTL (Artery_Tibial),MR Egger,7,-0.0228505293057718,0.218043439688027,0.920610216468509
+olr1_tibial,finngen_r12_aaa,Abdominal Aortic Aneurysm (FinnGen R12),OLR1 eQTL (Artery_Tibial),Weighted median,7,0.0742719222425419,0.053377200667142,0.16408778314729
+olr1_tibial,finngen_r12_aaa,Abdominal Aortic Aneurysm (FinnGen R12),OLR1 eQTL (Artery_Tibial),Simple mode,7,0.0971737589402274,0.0782735794656472,0.260765055186129
+olr1_tibial,finngen_r12_aaa,Abdominal Aortic Aneurysm (FinnGen R12),OLR1 eQTL (Artery_Tibial),Weighted mode,7,0.0953119584459452,0.0821294837724537,0.289925290122437
