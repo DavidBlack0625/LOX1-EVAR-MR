@@ -82,5 +82,5 @@ MIT License
 
 ## Contact
 
-Wei Wei (魏玮) - Department of General Surgery, Chengdu Fifth People's Hospital, China
+Wei Wei (魏巍) - Department of General Surgery, Chengdu Fifth People's Hospital, China
 Email: DavidBlack0625@outlook.com
